@@ -2,7 +2,7 @@
   "name": "codinc/prestashop-module-integration",
   "type": "library",
   "description": "A collection of tools to assist in integrating modules on Prestashop",
-  "keywords": ["framework"],
+  "keywords": ["library", "prestashop"],
   "license": "Apache-2.0",
   "authors": [
     { "name": "Jan Deschuttere", "email": "opensource@codinc.be" }
