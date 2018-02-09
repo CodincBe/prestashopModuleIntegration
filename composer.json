@@ -1,5 +1,5 @@
 {
-  "name": "codincBe/prestashopModuleIntegration",
+  "name": "codinc/prestashop-module-integration",
   "type": "library",
   "description": "A collection of tools to assist in integrating modules on Prestashop",
   "keywords": ["framework"],
