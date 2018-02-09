@@ -1,0 +1,22 @@
+{
+  "name": "codincBe/prestashopModuleIntegration",
+  "type": "library",
+  "description": "A collection of tools to assist in integrating modules on Prestashop",
+  "keywords": ["framework"],
+  "license": "Apache-2.0",
+  "authors": [
+    { "name": "Jan Deschuttere", "email": "opensource@codinc.be" }
+  ],
+  "require": {
+    "php": ">=5.3.9",
+    "doctrine/dbal": "~2.4",
+    "doctrine/orm": "^2.5",
+    "symfony/console": "~2.8",
+    "symfony/framework-bundle": "~2.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Codinc\\": "src/Codinc/"
+    }
+  }
+}

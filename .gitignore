@@ -1,0 +1,9 @@
+*.iml
+.buildpath
+.project
+.idea
+vendor/
+composer.lock
+/.phpcs-cache
+phpbench.phar
+phpbench.phar.pubkey

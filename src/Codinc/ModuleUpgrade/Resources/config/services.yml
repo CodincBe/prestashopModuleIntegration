@@ -1,0 +1,5 @@
+services:
+    codinc.prestashop.module.upgrade.database:
+        class: Codinc\ModuleUpgradeBundle\Command\DatabaseUpgradeCommand
+        tags:
+            - { name: console.command }
